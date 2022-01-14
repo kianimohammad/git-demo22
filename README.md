@@ -5,3 +5,5 @@
 
 
 # a new method
+
+# a new property is here
