@@ -7,8 +7,3 @@
 
 # a new method
 
-
-# a new property is here
-
-# new property 
-# add a new line here
